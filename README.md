@@ -6,6 +6,10 @@ Calculator App
 
 The main purspose for this project was is to test my JavaScript skills in creating simple yet useful and fun app.
 
+## Preview
+
+![Calculator](./assets/preview.png)
+
 ## Getting Started
 
 ### Dependencies
